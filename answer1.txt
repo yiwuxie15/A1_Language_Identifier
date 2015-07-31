@@ -1,0 +1,117 @@
+Name: Zidong Wang
+Unique Name: wzidong
+
+Words 152370
+Vocabulary 10401
+Top 50 words
+to 4525
+
+flow 1954
+
+at 1831
+
+number 1333
+
+pressur 1305
+
+from 1115
+
+result 1083
+
+effect 983
+
+boundari 925
+
+method 878
+
+theori 866
+
+layer 854
+
+solut 844
+
+mach 809
+
+equat 774
+
+bodi 734
+
+us 729
+
+wing 707
+
+present 698
+
+heat 683
+
+surfac 657
+
+obtain 640
+
+distribut 637
+
+shock 611
+
+problem 587
+
+were 582
+
+ratio 580
+
+temperatur 579
+
+calcul 549
+
+approxim 549
+
+veloc 546
+
+case 541
+
+investig 523
+
+test 517
+
+given 517
+
+condit 511
+
+these 499
+
+plate 492
+
+ha 480
+
+j. 477
+
+valu 476
+
+experiment 467
+
+superson 462
+
+gener 448
+
+made 448
+
+measur 427
+
+angl 426
+
+found 423
+
+rang 423
+
+wave 417
+
+
+The minimum number of unique words in the Cranfield collection accounting for 25% of	the total number of words in the collection
+Answer: 49
+
+Subset1: Words 24141   Vocabulary 3217
+Subset2: Words 45535   Vocabulary 4677
+B~0.59
+K~8.35
+V = K * 1,000,000^B ~ 28953
+V = K * 100,000,000^B ~ 438214
+
